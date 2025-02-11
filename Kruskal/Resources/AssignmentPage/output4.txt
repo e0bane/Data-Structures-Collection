@@ -1,0 +1,26 @@
+Total historical sites you will visit: 21
+
+MST Kruskal Algorithm Result
+
+Colosseum                        <--->   Roman Forum                       =     37.0
+Colosseum                        <--->   Palatine Hill                     =     50.5
+Victor Emmanuel II Monument      <--->   Capitoline Museums                =    210.2
+Piazza Navona                    <--->   Campo de Fiori                    =    210.8
+Pantheon                         <--->   Piazza Navona                     =    300.5
+Victor Emmanuel II Monument      <--->   Roman Forum                       =    350.5
+Colosseum                        <--->   Basilica of San Clemente          =    450.0
+Basilica di Santa Maria Maggiore <--->   National Roman Museum             =    550.5
+Spanish Steps                    <--->   Trevi Fountain                    =    650.0
+Trevi Fountain                   <--->   Pantheon                          =    653.2
+Villa Farnesina                  <--->   Santa Maria in Trastevere         =    655.2
+Castel Saint Angelo              <--->   St. Peter's Basilica              =    750.4
+Spanish Steps                    <--->   Piazza del Popolo                 =    798.8
+Trevi Fountain                   <--->   Victor Emmanuel II Monument       =    878.5
+San Giovanni in Laterano         <--->   Basilica of San Clemente          =    900.2
+Piazza Navona                    <--->   Castel Saint Angelo               =    900.3
+Campo de Fiori                   <--->   Villa Farnesina                   =    950.0
+Vatican Museums                  <--->   St. Peter's Basilica              =   1005.2
+Basilica of San Clemente         <--->   Basilica di Santa Maria Maggiore  =   1200.5
+Galleria Borghese                <--->   Spanish Steps                     =   1720.0
+=====================================================================================
+Total Distance: 13222.3 meters

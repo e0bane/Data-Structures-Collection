@@ -1,0 +1,4 @@
+Pantheon,Piazza Navona(300.5),Campo De Fiori(450.0),
+Campo De Fiori,,
+Piazza Navona,Campo De Fiori(210.4),
+End

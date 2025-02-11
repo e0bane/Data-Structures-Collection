@@ -1,0 +1,14 @@
+Total historical sites you will visit: 9
+
+MST Kruskal Algorithm Result
+
+Pantheon                         <--->   Campo de Fiori                    =    327.5
+Spanish Steps                    <--->   Trevi Fountain                    =    650.3
+Trevi Fountain                   <--->   Piazza del Popolo                 =   1569.4
+San Giovanni in Laterano         <--->   Colosseum                         =   1662.2
+Campo de Fiori                   <--->   Spanish Steps                     =   1803.2
+Basilica of San Clemente         <--->   Trevi Fountain                    =   2105.6
+Piazza Navona                    <--->   Colosseum                         =   2178.5
+Spanish Steps                    <--->   Colosseum                         =   2235.4
+=====================================================================================
+Total Distance: 12532.1 meters

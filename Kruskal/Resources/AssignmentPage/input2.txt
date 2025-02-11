@@ -1,0 +1,7 @@
+Spanish Steps,Trevi Fountain(650.7),Piazza del Popolo(720.5),
+Piazza del Popolo,St.Peter's Basilica(2207.4),
+Trevi Fountain,Vatican Museums(3120.5),St.Peter's Basilica(2970.3),
+Vatican Museums,St.Peter's Basilica(410.2),
+Galleria Borghese,Spanish Steps(1987.5),Castel Saint Angelo(3342.5),
+Castel Saint Angelo,Vatican Museums(1450.2),
+End

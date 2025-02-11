@@ -1,0 +1,8 @@
+Total historical sites you will visit: 3
+
+MST Kruskal Algorithm Result
+
+Piazza Navona                    <--->   Campo De Fiori                    =    210.4
+Pantheon                         <--->   Piazza Navona                     =    300.5
+=====================================================================================
+Total Distance: 510.9 meters

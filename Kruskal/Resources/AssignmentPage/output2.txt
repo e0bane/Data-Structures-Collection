@@ -1,0 +1,12 @@
+Total historical sites you will visit: 7
+
+MST Kruskal Algorithm Result
+
+Vatican Museums                  <--->   St.Peter's Basilica               =    410.2
+Spanish Steps                    <--->   Trevi Fountain                    =    650.7
+Spanish Steps                    <--->   Piazza del Popolo                 =    720.5
+Castel Saint Angelo              <--->   Vatican Museums                   =   1450.2
+Galleria Borghese                <--->   Spanish Steps                     =   1987.5
+Piazza del Popolo                <--->   St.Peter's Basilica               =   2207.4
+=====================================================================================
+Total Distance: 7426.5 meters

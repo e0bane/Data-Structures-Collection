@@ -1,0 +1,9 @@
+Spanish Steps,San Giovanni in Laterano(3351.4),Colosseum(2235.4),Trevi Fountain(650.3),
+Pantheon,Campo de Fiori(327.5),Basilica of San Clemente(2308.5),
+Piazza Navona,Colosseum(2178.5),
+Colosseum,Piazza del Popolo(2978.2),
+San Giovanni in Laterano,Colosseum(1662.2),Piazza Navona(3625.3),
+Campo de Fiori,Spanish Steps(1803.2),Basilica of San Clemente(2598.3),
+Basilica of San Clemente,Piazza del Popolo(3420.5),Trevi Fountain(2105.6),
+Trevi Fountain,Piazza del Popolo(1569.4),
+End
